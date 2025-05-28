@@ -73,7 +73,7 @@ const Hero = () => {
               </Card>
               <Card className="text-center p-4 hover:shadow-md transition-shadow">
                 <CardContent className="p-0">
-                  <div className="text-2xl font-bold text-purple-600">2024</div>
+                  <div className="text-2xl font-bold text-purple-600">2026</div>
                   <div className="text-sm text-gray-600">Год выпуска</div>
                 </CardContent>
               </Card>

@@ -13,7 +13,7 @@ const SectionCards = () => {
     {
       title: "Образование",
       description:
-        "Академические достижения, курсы и сертификаты в области психологии",
+        "МГПУ им. Евсеева — обучение на факультете психологии и дефектологии",
       icon: "GraduationCap",
       path: "/education",
       color: "from-blue-500 to-blue-600",
@@ -21,29 +21,22 @@ const SectionCards = () => {
     {
       title: "Практика и стажировки",
       description:
-        "Практический опыт работы и стажировки в психологических центрах",
+        "Прохожу практику в МБОУ СОШ №106 г.Сасово — работа с детьми и подростками",
       icon: "Briefcase",
       path: "/practice",
       color: "from-green-500 to-green-600",
     },
     {
-      title: "Портфолио проектов",
-      description: "Исследовательские работы, проекты и практические кейсы",
-      icon: "FolderOpen",
-      path: "/portfolio",
-      color: "from-purple-500 to-purple-600",
-    },
-    {
       title: "Контактная информация",
-      description:
-        "Способы связи и социальные сети для профессионального общения",
+      description: "Телефон: 8-915-627-89-16, почта: alinadeva11@yandex.ru",
       icon: "Contact",
       path: "/contacts",
       color: "from-orange-500 to-orange-600",
     },
     {
       title: "Блог и статьи",
-      description: "Публикации, размышления и материалы по психологии",
+      description:
+        "Делюсь опытом изучения психологии, планами развития и размышлениями о профессии",
       icon: "PenTool",
       path: "/blog",
       color: "from-pink-500 to-pink-600",
